@@ -12,7 +12,7 @@ This branch implements a mean-reversion trading strategy based on cointegration 
 
 ### Jupyter Notebook
 
-- **Cointegration Strategy Simulation**: A notebook that simulates the entire strategy on a restricted universe of S&P500 assets. It includes clustering, cointegration testing, and applying mean-reversion signals for trading.
+- **Mean Reversion Template**: A notebook that simulates the entire strategy on a restricted universe of S&P500 assets. It includes clustering, cointegration testing, and applying mean-reversion signals for trading.
 
 ## Strategy Workflow
 
